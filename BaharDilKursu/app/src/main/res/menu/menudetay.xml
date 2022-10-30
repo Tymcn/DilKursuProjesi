@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/anamenu" android:title="ANAMENÜ"/>
+    <item android:id="@+id/derslermenu" android:title="DERSLER"/>
+    <item android:id="@+id/hocalarmenu" android:title="HOCALAR"/>
+    <item android:id="@+id/sınavlarmenu" android:title="SINAVLAR"/>
+    <item android:id="@+id/yarismamenu" android:title="YARIŞMA"/>
+
+
+</menu>
